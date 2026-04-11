@@ -182,7 +182,7 @@ section .title::after{
 }
 @media (max-width:768){
     .home {
-        background-size:cover;
+        background-size:contain;
         height:50vh}
 }
 .home .max-width{
